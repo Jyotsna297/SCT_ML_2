@@ -1,4 +1,4 @@
-# SCT_ML_02 - Customer Segmentation using K-Means Clustering
+# SCT_ML_2 - Customer Segmentation using K-Means Clustering
 
 ## Objective
 Group retail store customers based on their purchasing behavior using K-Means Clustering.
